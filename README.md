@@ -12,7 +12,7 @@
 ---
 
 ## 📌 Overview
-
+   
 The **Customer Churn Dashboard** provides a comprehensive view of customer churn, retention, and risk. It helps stakeholders understand customer behavior, monitor attrition trends, identify customers who may be at risk of leaving, and explore key business metrics through an interactive Power BI report.
 
 The dashboard is organized into three main sections:
